@@ -1,4 +1,4 @@
-This is just a simple program to calculate the accumulated amount of different type of fixed deposit.
+This is just a simple program to calculate the accumulated amount of different type of fixed deposit.  
 method 1 = regular deposits (零存整付)  
 $node method1.js  
 Month 	Interest 	Amount  

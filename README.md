@@ -1,6 +1,6 @@
-method 1 = regular deposits (零存整付)
-$node method1.js
-Month 	Interest 	Amount
+method 1 = regular deposits (零存整付)  
+$node method1.js  
+Month 	Interest 	Amount  
 =======================================================
 Jan	16.67	10016.67
 Feb	33.36	20050.03

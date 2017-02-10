@@ -2,8 +2,8 @@ method 1 = regular deposits (零存整付)
 $node method1.js  
 Month 	Interest 	Amount  
 =======================================================   
-Jan	16.67	10016.67
-Feb	33.36	20050.03
+Jan	16.67	10016.67  
+Feb	33.36	20050.03   
 March	50.08	30100.11
 April	66.83	40166.94
 May	83.61	50250.55
